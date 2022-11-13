@@ -3,7 +3,7 @@ table {
 }
 
 .allstudents-container{
-    padding: 20px;
+    padding: 0 20px 0 20px;
     padding-bottom: 50px;
 }
 
@@ -16,4 +16,7 @@ table {
 .mat-form-field{
     width: 100%;
 }
-
+mat-form-field.mat-form-field {
+    font-size: 20px;
+    color: black;
+}
