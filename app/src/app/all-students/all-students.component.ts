@@ -66,7 +66,7 @@ export class AllStudentsComponent implements OnInit {
       if (result) {
         this.dataSource.data = this.dataSource.data.filter(
           (u) => u.id !== id
-        );
+        );  
       }
     });
   }
