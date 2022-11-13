@@ -5,16 +5,13 @@ This is a simple Customers table with [Angular 13](https://angular.io/ "Angular 
 **Dependencies**
 
 - JSON Server
-**`npm i json-server`**
+<br>**`npm i json-server`**
 
 - sweetalert2
-**`npm install sweetalert2`**
+<br>**`npm install sweetalert2`**
 
 **Run Project**
 - Backend
-`npm run json-run`
+<br>`npm run json-run`
 - Frontend
-`npm start`
-
-
-
+<br>`npm start`
