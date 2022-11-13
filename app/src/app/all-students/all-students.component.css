@@ -1,7 +1,19 @@
 table {
-    width: 80%;
+    width: 100%;
 }
 
 .allstudents-container{
     padding: 20px;
+    padding-bottom: 50px;
 }
+
+.mat-paginator{
+    position: fixed;
+    width: 100%;
+    bottom: 0%;
+}
+
+.mat-form-field{
+    width: 100%;
+}
+

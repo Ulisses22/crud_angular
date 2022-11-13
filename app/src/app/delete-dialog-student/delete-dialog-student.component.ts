@@ -16,6 +16,7 @@ export class DeleteDialogStudentComponent implements OnInit {
   ) { }
 
   ngOnInit(): void {
+
   }
 
   confirmDelete() {
