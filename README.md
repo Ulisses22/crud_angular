@@ -3,6 +3,7 @@ This is a simple Customers table with [Angular 13](https://angular.io/ "Angular 
 
 ## Preview
 ![image](https://user-images.githubusercontent.com/112980693/201550712-963535df-aa39-43d7-abd9-0eeee8a784ee.png)
+![image](https://user-images.githubusercontent.com/112980693/201551356-e1c53834-c7c8-483f-beee-fff427631fb7.png)
 
 
 ## Settings
