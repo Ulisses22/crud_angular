@@ -12,9 +12,9 @@ This is a simple Customers table with [Angular 13](https://angular.io/ "Angular 
 
 **Run Project**
 - Backend
-<br>`npm run json-run`
+<br>**`npm run json-run`**
 - Frontend
-<br>`npm start`
+<br>**`npm start`**
 
 ## Preview
 ![image](https://user-images.githubusercontent.com/112980693/201550712-963535df-aa39-43d7-abd9-0eeee8a784ee.png)
