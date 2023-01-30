@@ -8,7 +8,7 @@ This is a simple Customers table with [Angular 13](https://angular.io/ "Angular 
 <br>**`npm i json-server`**
 
 - sweetalert2
-<br>**`npm install sweetalert2`**
+<br>**`npm i sweetalert2`**
 
 **Run Project**
 - Backend
